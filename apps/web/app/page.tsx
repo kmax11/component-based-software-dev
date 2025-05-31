@@ -6,9 +6,7 @@ import { Counter } from "@repo/feature-counter";
 
 export default function Page() {
   const handleFeedbackSubmit = (feedback: FeedbackData) => {
-    // You can handle the feedback submission here
     console.log('Feedback received:', feedback);
-    // TODO: Send to your backend API
   };
 
   return (
