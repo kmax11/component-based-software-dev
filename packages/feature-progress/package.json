@@ -1,0 +1,10 @@
+{
+  "name": "@workspace/feature-progress",
+  "version": "1.0.0",
+  "main": "src/index.tsx",
+  "types": "src/index.tsx",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
